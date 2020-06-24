@@ -1,0 +1,1 @@
+# Artigo---Implementa-o-do-Business-Intelligence-na-ferramenta-OTRS
